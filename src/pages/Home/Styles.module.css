@@ -1,5 +1,6 @@
 .container {
     background-color: blue;
+    text-align: center;
 }
 
 .title {
@@ -9,4 +10,10 @@
 .Links {
     color: white;
     display: block;
+}
+
+.valueCount {
+    background-color: white;
+    padding: 2px 10px;
+    margin: 10px;
 }
